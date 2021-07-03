@@ -6,7 +6,7 @@ const about = () => {
   content.appendChild(h1);
 
   let img = new Image();
-  img.src = "../img/main_cafe.jpg";
+  img.src = "img/main_cafe.jpg";
   content.appendChild(img);
 
   let p = document.createElement('p');

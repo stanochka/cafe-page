@@ -6,32 +6,32 @@ const menu = () => {
   content.appendChild(h1);
 
   var menuItems = [ { title: 'Lavender Latte',
-                      img: '../img/latte.jpg',
+                      img: 'img/latte.jpg',
                       describtion: 'Nullam quis libero faucibus, pharetra nisl eu, mattis lectus.',
                       price: 5
                     },
                     { title: 'Hot Chocolate',
-                      img: '../img/choco.jpg',
+                      img: 'img/choco.jpg',
                       describtion: 'Maecenas interdum massa ac vestibulum venenatis.',
                       price: 6
                     },
                     { title: 'Rooibos Tea',
-                      img: '../img/tea.jpg',
+                      img: 'img/tea.jpg',
                       describtion: 'Suspendisse commodo dolor eget pretium placerat. ',
                       price: 4
                     },
                     { title: 'Green Tea',
-                      img: '../img/green_tea.jpg',
+                      img: 'img/green_tea.jpg',
                       describtion: 'Quisque aliquam cursus leo non varius.',
                       price: 4
                     },
                     { title: 'Rainbow Cake',
-                      img: '../img/cake.jpg',
+                      img: 'img/cake.jpg',
                       describtion: 'Donec egestas nisi eget libero laoreet, ac tempor dui hendrerit.',
                       price: 8
                     },
                     { title: 'Sandwich',
-                      img: '../img/sandwich.jpg',
+                      img: 'img/sandwich.jpg',
                       describtion: 'Vivamus lacinia venenatis erat, eu tincidunt dolor posuere id.',
                       price: 10
                     }
