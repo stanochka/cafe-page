@@ -16,7 +16,7 @@ const menu = () => {
                       price: 6
                     },
                     { title: 'Rooibos Tea',
-                      img: 'cafe-page/img/tea.jpg',
+                      img: 'img/tea.jpg',
                       describtion: 'Suspendisse commodo dolor eget pretium placerat. ',
                       price: 4
                     },
